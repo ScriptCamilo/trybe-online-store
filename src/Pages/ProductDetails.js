@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { number, string, shape, func } from 'prop-types';
 import { Link } from 'react-router-dom';
+import { TbShoppingCart } from 'react-icons/tb';
 import Star from '../Components/Star';
 import EstrelaDourada from '../Pictures/EstrelaDourada.png';
 import EstrelaTransparente from '../Pictures/EstrelaTransparente.png';
@@ -73,11 +74,7 @@ class ProductDetails extends Component {
             } }
             data-testid="shopping-cart-button"
           >
-            <img
-              className="shopping-cart-icon"
-              src="https://image.flaticon.com/icons/png/128/833/833314.png"
-              alt="carrinho de compras"
-            />
+            <TbShoppingCart className="shopping-cart-icon" />
           </Link>
         </section>
         <form>

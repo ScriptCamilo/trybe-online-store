@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { TbShoppingCart } from 'react-icons/tb';
 import CardItem from '../Components/CardItem';
 import Category from '../Components/Category';
 import Loading from '../Components/Loading';
@@ -100,11 +101,7 @@ class Home extends Component {
               } }
               data-testid="shopping-cart-button"
             >
-              <img
-                className="shopping-cart-icon"
-                src="https://image.flaticon.com/icons/png/128/833/833314.png"
-                alt="carrinho de compras"
-              />
+              <TbShoppingCart className="shopping-cart-icon" />
             </Link>
           </header>
 

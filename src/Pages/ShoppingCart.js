@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { shape, string, number, func } from 'prop-types';
+import { TbShoppingCart, TbArrowBackUp } from 'react-icons/tb';
 import CartProduct from '../Components/CartProduct';
 import EmptyCart from '../Components/EmptyCart';
 
@@ -36,19 +37,11 @@ class ShoppingCart extends React.Component {
     return (
       <div className="shopping-cart-container">
         <button type="button" onClick={ goBack }>
-          <img
-            className="back"
-            src="https://image.flaticon.com/icons/png/512/64/64516.png"
-            alt="voltar"
-          />
+          <TbArrowBackUp className="back" />
         </button>
 
         <header className="shopping-cart-header">
-          <img
-            className="shopping-cart-icon"
-            src="https://image.flaticon.com/icons/png/128/833/833314.png"
-            alt="carrinho de compras"
-          />
+          <TbShoppingCart className="shopping-cart-icon" />
           <h3>Carrinho de compras</h3>
         </header>
 
