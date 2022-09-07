@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trybe-online-store/static/css/main.80975c90.chunk.css",
+    "main.js": "/trybe-online-store/static/js/main.d1232672.chunk.js",
+    "main.js.map": "/trybe-online-store/static/js/main.d1232672.chunk.js.map",
+    "runtime-main.js": "/trybe-online-store/static/js/runtime-main.f0f9f147.js",
+    "runtime-main.js.map": "/trybe-online-store/static/js/runtime-main.f0f9f147.js.map",
+    "static/js/2.54f165de.chunk.js": "/trybe-online-store/static/js/2.54f165de.chunk.js",
+    "static/js/2.54f165de.chunk.js.map": "/trybe-online-store/static/js/2.54f165de.chunk.js.map",
+    "index.html": "/trybe-online-store/index.html",
+    "precache-manifest.2031f299ed472ba1a7a8fbb0d5ed00bd.js": "/trybe-online-store/precache-manifest.2031f299ed472ba1a7a8fbb0d5ed00bd.js",
+    "service-worker.js": "/trybe-online-store/service-worker.js",
+    "static/css/main.80975c90.chunk.css.map": "/trybe-online-store/static/css/main.80975c90.chunk.css.map",
+    "static/js/2.54f165de.chunk.js.LICENSE.txt": "/trybe-online-store/static/js/2.54f165de.chunk.js.LICENSE.txt",
+    "static/media/Boleto.jpg": "/trybe-online-store/static/media/Boleto.a7da500d.jpg",
+    "static/media/Cartao.jpg": "/trybe-online-store/static/media/Cartao.130f3bda.jpg",
+    "static/media/EstrelaDourada.png": "/trybe-online-store/static/media/EstrelaDourada.f59560a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f9f147.js",
+    "static/js/2.54f165de.chunk.js",
+    "static/css/main.80975c90.chunk.css",
+    "static/js/main.d1232672.chunk.js"
+  ]
+}
