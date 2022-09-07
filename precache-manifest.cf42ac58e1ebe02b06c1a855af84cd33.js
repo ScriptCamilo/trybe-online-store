@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0797e492ebf52e0c46577421ff6bd86",
+    "revision": "fa46e13e1680f6902e33c5d848d06af9",
     "url": "/trybe-online-store/index.html"
   },
   {
-    "revision": "79ce54a0af1249bf7e35",
+    "revision": "0c4470ca6e2462da946e",
     "url": "/trybe-online-store/static/css/main.80975c90.chunk.css"
   },
   {
-    "revision": "a9d74fd3913ddf7edad7",
-    "url": "/trybe-online-store/static/js/2.54f165de.chunk.js"
+    "revision": "0ee48a8acaa2252e2320",
+    "url": "/trybe-online-store/static/js/2.de1ab1e0.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/trybe-online-store/static/js/2.54f165de.chunk.js.LICENSE.txt"
+    "url": "/trybe-online-store/static/js/2.de1ab1e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79ce54a0af1249bf7e35",
-    "url": "/trybe-online-store/static/js/main.d1232672.chunk.js"
+    "revision": "0c4470ca6e2462da946e",
+    "url": "/trybe-online-store/static/js/main.11a63079.chunk.js"
   },
   {
     "revision": "dd5955c9277cf9a9bcb9",
